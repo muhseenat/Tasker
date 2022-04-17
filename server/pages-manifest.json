@@ -1,0 +1,19 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/appliedJobs": "pages/appliedJobs.html",
+  "/apply/[id]": "pages/apply/[id].html",
+  "/categories": "pages/categories.html",
+  "/chat": "pages/chat.html",
+  "/": "pages/index.html",
+  "/jobs": "pages/jobs.html",
+  "/login": "pages/login.html",
+  "/postedJobs/[id]": "pages/postedJobs/[id].html",
+  "/postjob": "pages/postjob.html",
+  "/profile": "pages/profile.html",
+  "/signup": "pages/signup.html",
+  "/view/users/[id]": "pages/view/users/[id].html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}

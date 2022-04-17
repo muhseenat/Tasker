@@ -1,0 +1,40 @@
+{
+  "../components/DataTable.js -> ./DataTable/Header": {
+    "id": 8636,
+    "files": [
+      "static/chunks/814.45e3c1078b842bb2.js",
+      "static/chunks/636.3d11144db6267e2e.js"
+    ]
+  },
+  "../components/DataTable.js -> ./DataTable/Pagination": {
+    "id": 3491,
+    "files": [
+      "static/chunks/491.d9ad63ae4a1d0d87.js"
+    ]
+  },
+  "../components/DataTable.js -> ./DataTable/Search": {
+    "id": 15,
+    "files": [
+      "static/chunks/15.e0fe72282115328f.js"
+    ]
+  },
+  "view/users/[id].js -> ../../../components/DataTable/Header": {
+    "id": 8636,
+    "files": [
+      "static/chunks/814.45e3c1078b842bb2.js",
+      "static/chunks/636.3d11144db6267e2e.js"
+    ]
+  },
+  "view/users/[id].js -> ../../../components/DataTable/Pagination": {
+    "id": 3491,
+    "files": [
+      "static/chunks/491.d9ad63ae4a1d0d87.js"
+    ]
+  },
+  "view/users/[id].js -> ../../../components/DataTable/Search": {
+    "id": 15,
+    "files": [
+      "static/chunks/15.e0fe72282115328f.js"
+    ]
+  }
+}
